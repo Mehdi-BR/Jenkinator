@@ -1,4 +1,2 @@
-# Jenkinator
-# Jenkinator
-# Jenkinator
-# Jenkinator
+# Jenkinator Documentation:
+
